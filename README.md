@@ -1,5 +1,7 @@
 # flutterseed
 
+![Flutter CI](https://github.com/pricehunter/flutter_seed/workflows/Flutter%20CI/badge.svg?branch=master)
+
 Semilla para app en Flutter
 
 ## Getting Started
